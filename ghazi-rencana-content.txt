@@ -1,6 +1,8 @@
 Rencana Ghazi
 
 - javascript
+* ES 6
+* Framework JavaScript
 - PHP Framework
 - Interview
 - Vlogs
