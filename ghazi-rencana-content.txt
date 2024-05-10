@@ -3,9 +3,11 @@ Rencana Ghazi
 - javascript
 * ES 6
 * Framework JavaScript
-  + Angular
+  + Vue
   + React
+- Struktur Data Dasar
 - PHP Framework
   + Laravel
 - Interview
 - Vlogs
+- Python
