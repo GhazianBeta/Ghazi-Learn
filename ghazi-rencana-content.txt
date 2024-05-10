@@ -3,6 +3,7 @@ Rencana Ghazi
 - javascript
 * ES 6
 * Framework JavaScript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlogs
