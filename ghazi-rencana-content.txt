@@ -5,6 +5,7 @@ Rencana Ghazi
 * Framework JavaScript
   + Vue
   + React
+  + Angular
 - Struktur Data Dasar
 - PHP Framework
   + Laravel
